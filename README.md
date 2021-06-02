@@ -4,11 +4,11 @@ A mini e-commerce application built with Ruby on Rails 4.2. Allows user to view 
 
 ## Screenshots
 
-![Home Page](/relative/path/to/img.jpg?raw=true "Home Page")
+![Home Page](https://github.com/Omar-Irfan/jungle/blob/master/screenshots/Screenshot%20from%202021-06-02%2017-46-09.png?raw=true "Home Page")
 
-![Product Details Page](/relative/path/to/img.jpg?raw=true "Product Details Page")
+![Product Details Page](https://github.com/Omar-Irfan/jungle/blob/master/screenshots/Screenshot%20from%202021-06-02%2017-47-32.png?raw=true "Product Details Page")
 
-![Cart and Order](/relative/path/to/img.jpg?raw=true "Cart and Order")
+![Cart and Order](https://github.com/Omar-Irfan/jungle/blob/master/screenshots/Screenshot%20from%202021-06-02%2017-49-17.png?raw=true "Cart and Order")
 
 ## Setup
 
